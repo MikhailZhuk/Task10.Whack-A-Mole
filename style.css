@@ -24,6 +24,9 @@ button {
   border-radius: 15px 15px 15px 15px;
   cursor: pointer;
 }
+.focus {
+  background-color: khaki;
+}
 button:hover{
   background-color: khaki;
 }
@@ -47,8 +50,8 @@ h1 {
 }
 
 .game {
-  width: 700px;
-  height: 500px;
+  width: 650px;
+  height: 450px;
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
